@@ -1,0 +1,10 @@
+{
+  "uniqueId":"3",
+  "activities"[
+    {
+      "activityName":"singleTap",
+      "time" :"2022-02-18",
+      "duration":10
+    }
+    ]
+}
